@@ -26,7 +26,8 @@
 
 - **🔗 [Arduino-Line-Following-Robot-with-Loading-Unloading-Mechanism](https://github.com/rembov/Arduino-Line-Following-Robot-with-Loading-Unloading-Mechanism)**  
   Четырёхсенсорный **робот-следопыт** с сервоприводом для загрузки/выгрузки и автоматическим возвращением на базу.
-
+- **🔗 [SmartTempControl-ESP8266](https://github.com/rembov/SmartTempControl-ESP8266)**  
+  Умная **система контроля температуры** на базе ESP8266.
 - **🔗 [Arduino-Multi-Sensor-Wireless-Monitoring-System](https://github.com/rembov/Arduino-Multi-Sensor-Wireless-Monitoring-System)**  
   **Беспроводная сеть датчиков** (температуры, влажности и пр.) с передачей данных по RF-модулю.
 
