@@ -167,9 +167,6 @@
 <!-- Языки -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rembov&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 
-<!-- Награды -->
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=rembov&theme=radical&no-frame=true&margin-w=15" alt="Trophies"/>
 
 </div>
 </details>
