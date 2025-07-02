@@ -146,13 +146,11 @@
     <td align="center"><img src="https://img.shields.io/badge/Embedded-C%2B%2B-blue?style=flat&logo=c%2B%2B" /><br/>C++ / Embedded</td>
     <td align="center"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" /><br/>Arduino</td>
     <td align="center"><img src="https://img.shields.io/badge/ESP8266-black?style=flat&logo=espressif&logoColor=white" /><br/>ESP8266</td>
-    <td align="center"><img src="https://img.shields.io/badge/Nextion-FF6F00?style=flat" /><br/>Nextion</td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Servo-grey?style=flat" /><br/>Servo Motors</td>
     <td align="center"><img src="https://img.shields.io/badge/EERPOM-4CAF50?style=flat" /><br/>EEPROM</td>
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /><br/>Python</td>
-    <td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /><br/>Go</td>
   </tr>
 </table>
 
