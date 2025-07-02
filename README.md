@@ -3,13 +3,11 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B" alt="C++"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/ESP8266-4C4C4C?style=flat&logo=espressif&logoColor=white" alt="ESP8266"/>
-  <img src="https://img.shields.io/badge/Nextion-FF6F00?style=flat" alt="Nextion"/>
   <img src="https://img.shields.io/badge/ServoMotors-grey?style=flat" alt="Servo Motors"/>
   <img src="https://img.shields.io/badge/Ultrasonic-FFC107?style=flat" alt="Ultrasonic"/>
   <img src="https://img.shields.io/badge/OLED-000000?style=flat&logo=monochrome" alt="OLED"/>
   <img src="https://img.shields.io/badge/RF_Modules-007ACC?style=flat" alt="RF Modules"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaFX-2C2255?style=flat" alt="JavaFX"/>
   <img src="https://img.shields.io/badge/Telegram_Bots-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram Bots"/>
