@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/NodeMCU-0078A8?style=flat&logo=nodemcu&logoColor=white" alt="NodeMCU"/>
   <img src="https://img.shields.io/badge/Atmel-ED1C24?style=flat&logo=atmel&logoColor=white" alt="Atmel"/>
   <img src="https://img.shields.io/badge/AVR-0052CC?style=flat&logo=avr&logoColor=white" alt="AVR"/>
-  <img src="https://img.shields.io/badge/STM32-0072BB?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-  <img src="https://img.shields.io/badge/PIC-FF6F00?style=flat&logo=microchip&logoColor=white" alt="PIC"/>
   <img src="https://img.shields.io/badge/ServoMotors-grey?style=flat" alt="Servo Motors"/>
   <img src="https://img.shields.io/badge/StepperMotors-FF5733?style=flat" alt="Stepper Motors"/>
   <img src="https://img.shields.io/badge/Ultrasonic-FFC107?style=flat" alt="Ultrasonic"/>
