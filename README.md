@@ -21,11 +21,23 @@
   <strong>🔩 Arduino / Embedded</strong><br/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/ESP8266-4C4C4C?style=flat&logo=espressif&logoColor=white" alt="ESP8266"/>
+  <img src="https://img.shields.io/badge/ESP32-2C6BED?style=flat&logo=espressif&logoColor=white" alt="ESP32"/>
   <img src="https://img.shields.io/badge/NodeMCU-0078A8?style=flat&logo=nodemcu&logoColor=white" alt="NodeMCU"/>
+  <img src="https://img.shields.io/badge/Atmel-ED1C24?style=flat&logo=atmel&logoColor=white" alt="Atmel"/>
+  <img src="https://img.shields.io/badge/AVR-0052CC?style=flat&logo=avr&logoColor=white" alt="AVR"/>
+  <img src="https://img.shields.io/badge/STM32-0072BB?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+  <img src="https://img.shields.io/badge/PIC-FF6F00?style=flat&logo=microchip&logoColor=white" alt="PIC"/>
   <img src="https://img.shields.io/badge/ServoMotors-grey?style=flat" alt="Servo Motors"/>
+  <img src="https://img.shields.io/badge/StepperMotors-FF5733?style=flat" alt="Stepper Motors"/>
   <img src="https://img.shields.io/badge/Ultrasonic-FFC107?style=flat" alt="Ultrasonic"/>
   <img src="https://img.shields.io/badge/OLED-000000?style=flat&logo=monochrome" alt="OLED"/>
+  <img src="https://img.shields.io/badge/LCD-007ACC?style=flat&logo=monochrome" alt="LCD"/>
   <img src="https://img.shields.io/badge/RF_Modules-007ACC?style=flat" alt="RF Modules"/>
+  <img src="https://img.shields.io/badge/Bluetooth-2AA2C9?style=flat&logo=bluetooth&logoColor=white" alt="Bluetooth"/>
+  <img src="https://img.shields.io/badge/Wi-Fi-FF6C37?style=flat&logo=wifi&logoColor=white" alt="Wi-Fi"/>
+  <img src="https://img.shields.io/badge/LoRa-2F4F4F?style=flat" alt="LoRa"/>
+  <img src="https://img.shields.io/badge/NFC-3DDC84?style=flat" alt="NFC"/>
+  <img src="https://img.shields.io/badge/GPS-008080?style=flat" alt="GPS"/>
   <img src="https://img.shields.io/badge/EEPROM-555555?style=flat" alt="EEPROM"/>
   <img src="https://img.shields.io/badge/DS3231_RTC-6C7A89?style=flat" alt="DS3231 RTC"/>
   <img src="https://img.shields.io/badge/DS18B20-FF69B4?style=flat" alt="DS18B20"/>
@@ -39,6 +51,14 @@
   <img src="https://img.shields.io/badge/OneWire-000000?style=flat" alt="OneWire"/>
   <img src="https://img.shields.io/badge/Adafruit_GFX-00A4E0?style=flat" alt="Adafruit GFX"/>
   <img src="https://img.shields.io/badge/Adafruit_SSD1306-000000?style=flat" alt="Adafruit SSD1306"/>
+  <img src="https://img.shields.io/badge/MAX7219-FF0000?style=flat" alt="MAX7219"/>
+  <img src="https://img.shields.io/badge/MAX485-0078D7?style=flat" alt="MAX485"/>
+  <img src="https://img.shields.io/badge/MAX6675-008080?style=flat" alt="MAX6675"/>
+  <img src="https://img.shields.io/badge/MAX31855-8B0000?style=flat" alt="MAX31855"/>
+  <img src="https://img.shields.io/badge/NRF24L01-4B0082?style=flat" alt="NRF24L01"/>
+  <img src="https://img.shields.io/badge/MPU6050-800080?style=flat" alt="MPU6050"/>
+  <img src="https://img.shields.io/badge/BME280-008B8B?style=flat" alt="BME280"/>
+  <img src="https://img.shields.io/badge/SX1278-483D8B?style=flat" alt="SX1278"/>
   <br/><br/>
 
   <!-- API / ФОРМАТЫ -->
