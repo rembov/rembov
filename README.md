@@ -175,29 +175,6 @@
 </details>
 
 <details>
-  <summary>🔥 Статистика «прогорающих» рекордов</summary>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rembov&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </div>
-</details>
-
-<details>
-  <summary>🗓️ График вкладов</summary>
-  <div align="center">
-    <!-- опционально: можно увеличить сложность параметров -->
-    <img src="https://activity-graph.herokuapp.com/graph?username=rembov&theme=react-dark&area=true&hide_border=true" alt="Contributions Graph" />
-  </div>
-</details>
-
-<details>
-  <summary>⏱️ WakaTime (последняя неделя)</summary>
-  <div align="center">
-    <!-- требуется ключ API WakaTime -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rembov&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" />
-  </div>
-</details>
-
-<details>
   <summary>👀 Счетчик просмотров профиля</summary>
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=rembov&style=flat-square&color=blue" alt="Profile Views" />
