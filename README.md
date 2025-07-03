@@ -14,6 +14,23 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON"/>
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Assembler-DA1884?style=flat" alt="Assembler"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/JSON_Schema-000000?style=flat&logo=json&logoColor=white" alt="JSON Schema"/>
+  <img src="https://img.shields.io/badge/PDF-FF0000?style=flat&logo=adobepdf&logoColor=white" alt="PDF"/>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white" alt="Word"/>
+  <img src="https://img.shields.io/badge/QR_Code-000000?style=flat&logo=qr-code&logoColor=white" alt="QR Code"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/DS3231_RTC-6C7A89?style=flat" alt="DS3231 RTC"/>
+  <img src="https://img.shields.io/badge/Tinkoff_Invest_API-0C2C84?style=flat" alt="Tinkoff Invest API"/>
+  <img src="https://img.shields.io/badge/PyAutoGUI-FFA500?style=flat" alt="PyAutoGUI"/>
+  <img src="https://img.shields.io/badge/EEPROM-555555?style=flat" alt="EEPROM"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white" alt="YAML"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=flat" alt="REST API"/>
 </p>
 
 
