@@ -1,37 +1,58 @@
 <h1 align="center">👋 Привет </h1>
 <p align="center">
+  <!-- Языки программирования -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B" alt="C++"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/ESP8266-4C4C4C?style=flat&logo=espressif&logoColor=white" alt="ESP8266"/>
-  <img src="https://img.shields.io/badge/ServoMotors-grey?style=flat" alt="Servo Motors"/>
-  <img src="https://img.shields.io/badge/Ultrasonic-FFC107?style=flat" alt="Ultrasonic"/>
-  <img src="https://img.shields.io/badge/OLED-000000?style=flat&logo=monochrome" alt="OLED"/>
-  <img src="https://img.shields.io/badge/RF_Modules-007ACC?style=flat" alt="RF Modules"/>
+  <img src="https://img.shields.io/badge/Assembler-DA1884?style=flat" alt="Assembler"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaFX-2C2255?style=flat" alt="JavaFX"/>
-  <img src="https://img.shields.io/badge/Telegram_Bots-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram Bots"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Assembler-DA1884?style=flat" alt="Assembler"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/JSON_Schema-000000?style=flat&logo=json&logoColor=white" alt="JSON Schema"/>
-  <img src="https://img.shields.io/badge/PDF-FF0000?style=flat&logo=adobepdf&logoColor=white" alt="PDF"/>
-  <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white" alt="Word"/>
-  <img src="https://img.shields.io/badge/QR_Code-000000?style=flat&logo=qr-code&logoColor=white" alt="QR Code"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI API"/>
-  <img src="https://img.shields.io/badge/DS3231_RTC-6C7A89?style=flat" alt="DS3231 RTC"/>
-  <img src="https://img.shields.io/badge/Tinkoff_Invest_API-0C2C84?style=flat" alt="Tinkoff Invest API"/>
-  <img src="https://img.shields.io/badge/PyAutoGUI-FFA500?style=flat" alt="PyAutoGUI"/>
-  <img src="https://img.shields.io/badge/EEPROM-555555?style=flat" alt="EEPROM"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white" alt="YAML"/>
+
+  <!-- Веб-технологии -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/REST_API-000000?style=flat" alt="REST API"/>
+
+  <!-- Arduino и электроника -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/ESP8266-4C4C4C?style=flat&logo=espressif&logoColor=white" alt="ESP8266"/>
+  <img src="https://img.shields.io/badge/NodeMCU-0078A8?style=flat&logo=nodemcu&logoColor=white" alt="NodeMCU"/>
+  <img src="https://img.shields.io/badge/ServoMotors-grey?style=flat" alt="Servo Motors"/>
+  <img src="https://img.shields.io/badge/Ultrasonic-FFC107?style=flat" alt="Ultrasonic Sensors"/>
+  <img src="https://img.shields.io/badge/OLED-000000?style=flat&logo=monochrome" alt="OLED"/>
+  <img src="https://img.shields.io/badge/RF_Modules-007ACC?style=flat" alt="RF Modules"/>
+  <img src="https://img.shields.io/badge/DS18B20-FF69B4?style=flat" alt="DS18B20"/>
+  <img src="https://img.shields.io/badge/DHT11-F88379?style=flat" alt="DHT11"/>
+  <img src="https://img.shields.io/badge/L298N-007ACC?style=flat" alt="L298N Motor Driver"/>
+  <img src="https://img.shields.io/badge/IR_Sensors-000000?style=flat" alt="IR Sensors"/>
+  <img src="https://img.shields.io/badge/EEPROM-555555?style=flat" alt="EEPROM"/>
+  <img src="https://img.shields.io/badge/PWM-FF4500?style=flat" alt="PWM"/>
+  <img src="https://img.shields.io/badge/I2C-FF6C37?style=flat" alt="I2C"/>
+  <img src="https://img.shields.io/badge/SPI-003A70?style=flat" alt="SPI"/>
+  <img src="https://img.shields.io/badge/UART-4D4D4D?style=flat" alt="UART"/>
+  <img src="https://img.shields.io/badge/OneWire-000000?style=flat" alt="OneWire"/>
+  <img src="https://img.shields.io/badge/Adafruit_GFX-00A4E0?style=flat" alt="Adafruit GFX"/>
+  <img src="https://img.shields.io/badge/Adafruit_SSD1306-000000?style=flat" alt="Adafruit SSD1306"/>
+  <img src="https://img.shields.io/badge/DS3231_RTC-6C7A89?style=flat" alt="DS3231 RTC"/>
+
+  <!-- API и форматы -->
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON"/>
+  <img src="https://img.shields.io/badge/JSON_Schema-000000?style=flat&logo=json&logoColor=white" alt="JSON Schema"/>
+  <img src="https://img.shields.io/badge/PDF-FF0000?style=flat&logo=adobepdf&logoColor=white" alt="PDF"/>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white" alt="Word"/>
+  <img src="https://img.shields.io/badge/QR_Code-000000?style=flat&logo=qr-code&logoColor=white" alt="QR Code"/>
+
+  <!-- ML, AI и прочее -->
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI API"/>
+
+  <!-- Фреймворки и библиотеки -->
+  <img src="https://img.shields.io/badge/JavaFX-2C2255?style=flat" alt="JavaFX"/>
+  <img src="https://img.shields.io/badge/PyAutoGUI-FFA500?style=flat" alt="PyAutoGUI"/>
+  <img src="https://img.shields.io/badge/Telegram_Bots-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram Bots"/>
+  <img src="https://img.shields.io/badge/Tinkoff_Invest_API-0C2C84?style=flat" alt="Tinkoff Invest API"/>
 </p>
+
 
 
 ---
