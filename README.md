@@ -26,8 +26,10 @@
 
 - **🔗 [Arduino-Line-Following-Robot-with-Loading-Unloading-Mechanism](https://github.com/rembov/Arduino-Line-Following-Robot-with-Loading-Unloading-Mechanism)**  
   Четырёхсенсорный **робот-следопыт** с сервоприводом для загрузки/выгрузки и автоматическим возвращением на базу.
+  
 - **🔗 [SmartTempControl-ESP8266](https://github.com/rembov/SmartTempControl-ESP8266)**  
   Умная **система контроля температуры** на базе ESP8266.
+  
 - **🔗 [Arduino-Multi-Sensor-Wireless-Monitoring-System](https://github.com/rembov/Arduino-Multi-Sensor-Wireless-Monitoring-System)**  
   **Беспроводная сеть датчиков** (температуры, влажности и пр.) с передачей данных по RF-модулю.
 
@@ -39,6 +41,9 @@
 
 - **🔗 [Arduino-3D-Cube-OLED](https://github.com/rembov/Arduino-3D-Cube-OLED)**  
   Анимация вращающегося **3D-куба** на OLED‑дисплее.
+  
+- **🔗 [FeederController](https://github.com/rembov/FeederController)**  
+  Интеллектуальная автокормушка на базе **Arduino Uno** с возможностью планировать до 10 кормлений, ручным управлением через меню и синхронизацией времени с модулем **RTC DS3231**.
 
 - **🔗 [ESP8266-SmartHome-Telegram-Bot](https://github.com/rembov/ESP8266-SmartHome-Telegram-Bot)**  
   **Смарт‑дом** на ESP8266 с управлением через Telegram‑бота, работа с датчиками и реле.
@@ -155,13 +160,50 @@
 ---
 
 
-  <details>
-<summary>📊 Статистика GitHub</summary>
-<div align="center">
-<!-- Языки -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rembov&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
+<details>
+  <summary>📊 Общая статистика GitHub</summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rembov&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </div>
 </details>
+
+<details>
+  <summary>📈 Топ языки</summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rembov&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </div>
+</details>
+
+<details>
+  <summary>🔥 Статистика «прогорающих» рекордов</summary>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rembov&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </div>
+</details>
+
+<details>
+  <summary>🗓️ График вкладов</summary>
+  <div align="center">
+    <!-- опционально: можно увеличить сложность параметров -->
+    <img src="https://activity-graph.herokuapp.com/graph?username=rembov&theme=react-dark&area=true&hide_border=true" alt="Contributions Graph" />
+  </div>
+</details>
+
+<details>
+  <summary>⏱️ WakaTime (последняя неделя)</summary>
+  <div align="center">
+    <!-- требуется ключ API WakaTime -->
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rembov&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" />
+  </div>
+</details>
+
+<details>
+  <summary>👀 Счетчик просмотров профиля</summary>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=rembov&style=flat-square&color=blue" alt="Profile Views" />
+  </div>
+</details>
+
 
 
 ---
