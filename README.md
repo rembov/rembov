@@ -261,7 +261,7 @@
 <details>
   <summary>📈 Топ языки</summary>
    <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rembov&layout=compact&theme=shades-of-purple&hide_border=true&count_private=true" alt="Lang Percentages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rembov&layout=compact&theme=shades-of-purple&hide_border=true&count_private=true&cache_seconds=21600" alt="Lang Percentages" />
   </div>
 </details>
 
