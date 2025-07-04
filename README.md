@@ -57,10 +57,11 @@
   <img src="https://img.shields.io/badge/MPU6050-800080?style=flat" alt="MPU6050"/>
   <img src="https://img.shields.io/badge/BME280-008B8B?style=flat" alt="BME280"/>
   <img src="https://img.shields.io/badge/SX1278-483D8B?style=flat" alt="SX1278"/>
-  <img src="https://img.shields.io/badge/Sensor-BMP180-0053A0?style=flat&logo=&logoColor=white" alt="BMP180"/>
-  <img src="https://img.shields.io/badge/Display-I%C2%B2C_LCD-007ACC?style=flat&logo=lcd&logoColor=white" alt="I2C LCD"/>
-  <img src="https://img.shields.io/badge/LED-NeoPixel-FF1493?style=flat&logo=adobe&logoColor=white" alt="NeoPixel"/>
-  <img src="https://img.shields.io/badge/Interface-RemoteXY-1E90FF?style=flat&logo=&logoColor=white" alt="RemoteXY"/>
+  <img src="https://img.shields.io/badge/BMP180-0053A0?style=flat" alt="BMP180"/>
+  <img src="https://img.shields.io/badge/I2C_LCD-007ACC?style=flat" alt="I2C LCD"/>
+  <img src="https://img.shields.io/badge/NeoPixel-FF1493?style=flat" alt="NeoPixel"/>
+  <img src="https://img.shields.io/badge/RemoteXY-1E90FF?style=flat" alt="RemoteXY"/>
+
   <br/><br/>
 
   <!-- API / ФОРМАТЫ -->
