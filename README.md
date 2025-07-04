@@ -254,8 +254,8 @@
 <details>
   <summary>📈 Топ языки</summary>
   <div align="center">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rembov&theme=vue" alt="Top Languages" />
+    <a href="https://github.com/Jurredr/github-widgetbox">
+      <img src="https://github-widgetbox.vercel.app/api/skills?languages=javascript,python,go,html,css&includeNames=true&theme=darkmode" alt="Skills" />
     </a>
   </div>
 </details>
