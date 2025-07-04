@@ -246,7 +246,10 @@
   <summary>👤 Профиль</summary>
   <div align="center">
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rembov&theme=vue" alt="Profile Details" />
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rembov&theme=vue&cache_seconds=21600"
+        alt="Profile Details"
+      />
     </a>
   </div>
 </details>
@@ -254,9 +257,13 @@
 <details>
   <summary>📊 Общая статистика GitHub</summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rembov&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=rembov&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600"
+      alt="GitHub Stats"
+    />
   </div>
 </details>
+
 
 <details>
   <summary>📈 Топ языки</summary>
