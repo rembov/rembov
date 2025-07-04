@@ -57,6 +57,10 @@
   <img src="https://img.shields.io/badge/MPU6050-800080?style=flat" alt="MPU6050"/>
   <img src="https://img.shields.io/badge/BME280-008B8B?style=flat" alt="BME280"/>
   <img src="https://img.shields.io/badge/SX1278-483D8B?style=flat" alt="SX1278"/>
+  <img src="https://img.shields.io/badge/Sensor-BMP180-0053A0?style=flat&logo=&logoColor=white" alt="BMP180"/>
+  <img src="https://img.shields.io/badge/Display-I%C2%B2C_LCD-007ACC?style=flat&logo=lcd&logoColor=white" alt="I2C LCD"/>
+  <img src="https://img.shields.io/badge/LED-NeoPixel-FF1493?style=flat&logo=adobe&logoColor=white" alt="NeoPixel"/>
+  <img src="https://img.shields.io/badge/Interface-RemoteXY-1E90FF?style=flat&logo=&logoColor=white" alt="RemoteXY"/>
   <br/><br/>
 
   <!-- API / ФОРМАТЫ -->
@@ -128,6 +132,9 @@
 
 - **🔗 [line-follower-octoliner-pid](https://github.com/rembov/line-follower-octoliner-pid)**  
   Линейный робот с **датчиком Octoliner** и реализованным **PID-регулятором** для точного следования по линии и стабильного прохождения поворотов.
+
+- **🔗 [bmp180-neopixel-remote](https://github.com/rembov/bmp180-neopixel-remote)**  
+  Скетч для Arduino: считывает температуру и давление с BMP180, выводит на I²C LCD, управляет NeoPixel и передаёт данные через HC-05.
 
 </details>
 
