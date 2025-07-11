@@ -143,7 +143,7 @@
 - **🔗 [ESP8266-Water-Turbidity-Sensor](https://github.com/rembov/ESP8266-Water-Turbidity-Sensor)**  
   Измерение мутности воды и публикация данных через MQTT.
 
-- **🔗 [Tuya Pulse Counter](https://github.com/rembov/tuya-pulse-counter)**
+- **🔗 [Tuya Pulse Counter](https://github.com/rembov/tuya-pulse-counter)**<br>
   Передача данных **счётчиков** на базе ESP8266 с поддержкой платформы **Tuya**.
 
 </details>
