@@ -61,7 +61,6 @@
   <img src="https://img.shields.io/badge/I2C_LCD-007ACC?style=flat" alt="I2C LCD"/>
   <img src="https://img.shields.io/badge/NeoPixel-FF1493?style=flat" alt="NeoPixel"/>
   <img src="https://img.shields.io/badge/RemoteXY-1E90FF?style=flat" alt="RemoteXY"/>
-
   <br/><br/>
 
   <!-- API / ФОРМАТЫ -->
