@@ -262,7 +262,11 @@
   <summary>👤 Профиль</summary>
   <div align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-<img src="https://<твоя-деплой-ссылка>/api/cards/profile-details?username=rembov&theme=cyberpunk2077" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rembov&theme=tokyonight"
+  alt="Profile Details"
+/>
+
 
 </a>
       />
