@@ -278,24 +278,6 @@
 </details>
 
 <details>
-  <summary>📊 Общая статистика GitHub</summary>
-  <div align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=rembov&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600"
-      alt="GitHub Stats"
-    />
-  </div>
-</details>
-
-
-<details>
-  <summary>📈 Топ языки</summary>
-   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rembov&layout=compact&theme=shades-of-purple&hide_border=true&count_private=true&cache_seconds=21600" alt="Lang Percentages" />
-  </div>
-</details>
-
-<details>
   <summary>👀 Счетчик просмотров профиля</summary>
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=rembov&style=flat-square&color=blue" alt="Profile Views" />
