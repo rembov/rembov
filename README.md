@@ -161,6 +161,9 @@
 <details>
 <summary><strong>🐍 Python & Data</strong></summary>
 
+- **🔗 [django-portfolio](https://github.com/rembov/django-portfolio)**  
+  Коллекция веб-проектов на **Django**: сайт для изучения английского, каталог, блог, лендинги и таймер событий.
+  
 - **🔗 [ai-lesson](https://github.com/rembov/ai-lesson)**  
   Учебные примеры по **машинному обучению** и **нейросетям**: классификация, регрессия, обучение моделей.
 
