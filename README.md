@@ -223,7 +223,7 @@
 <summary><strong>🐹 Go & API</strong></summary>
 
 - **🔗 [apicpt](https://github.com/rembov/apicpt)**  
-  Клиент для работы с **OpenAI API** (ChatGPT) на Go: обёртка запросов и обработка ответов.
+  Бэкенд **REST API на Go**: сервис авторизации с **JWT** (access/refresh), **Swagger**-документация, **Docker** и юнит‑тесты.
 
 - **🔗 [go-struct](https://github.com/rembov/go-struct)**  
   Генератор Go‑структур по JSON‑схемам: упрощает работу с динамическими данными.
