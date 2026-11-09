@@ -4,9 +4,12 @@
   <!-- ЯЗЫКИ -->
   <strong>🧠 Языки программирования</strong><br/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/Assembler-DA1884?style=flat" alt="Assembler"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <br/><br/>
 
@@ -21,16 +24,18 @@
   <!-- АРДУИНО -->
   <strong>🔩 Arduino / Embedded</strong><br/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
   <img src="https://img.shields.io/badge/ESP8266-4C4C4C?style=flat&logo=espressif&logoColor=white" alt="ESP8266"/>
   <img src="https://img.shields.io/badge/ESP32-2C6BED?style=flat&logo=espressif&logoColor=white" alt="ESP32"/>
   <img src="https://img.shields.io/badge/NodeMCU-0078A8?style=flat&logo=nodemcu&logoColor=white" alt="NodeMCU"/>
-  <img src="https://img.shields.io/badge/Atmel-ED1C24?style=flat&logo=atmel&logoColor=white" alt="Atmel"/>
-  <img src="https://img.shields.io/badge/AVR-0052CC?style=flat&logo=avr&logoColor=white" alt="AVR"/>
+  <img src="https://img.shields.io/badge/Atmel-ED1C24?style=flat" alt="Atmel"/>
+  <img src="https://img.shields.io/badge/AVR-0052CC?style=flat" alt="AVR"/>
   <img src="https://img.shields.io/badge/ServoMotors-grey?style=flat" alt="Servo Motors"/>
   <img src="https://img.shields.io/badge/StepperMotors-FF5733?style=flat" alt="Stepper Motors"/>
   <img src="https://img.shields.io/badge/Ultrasonic-FFC107?style=flat" alt="Ultrasonic"/>
   <img src="https://img.shields.io/badge/OLED-000000?style=flat&logo=monochrome" alt="OLED"/>
   <img src="https://img.shields.io/badge/LCD-007ACC?style=flat&logo=monochrome" alt="LCD"/>
+  <img src="https://img.shields.io/badge/TFT_Display-8A2BE2?style=flat" alt="TFT Display"/>
   <img src="https://img.shields.io/badge/RF_Modules-007ACC?style=flat" alt="RF Modules"/>
   <img src="https://img.shields.io/badge/Bluetooth-2AA2C9?style=flat&logo=bluetooth&logoColor=white" alt="Bluetooth"/>
   <img src="https://img.shields.io/badge/Wi-Fi-FF6C37?style=flat&logo=wifi&logoColor=white" alt="Wi-Fi"/>
@@ -82,7 +87,10 @@
   <!-- Инструменты / Фреймворки -->
   <strong>🔧 Библиотеки и API</strong><br/>
   <img src="https://img.shields.io/badge/JavaFX-2C2255?style=flat" alt="JavaFX"/>
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white" alt="PyQt5"/>
   <img src="https://img.shields.io/badge/PyAutoGUI-FFA500?style=flat" alt="PyAutoGUI"/>
+  <img src="https://img.shields.io/badge/Aiogram-2481CC?style=flat&logo=telegram&logoColor=white" alt="Aiogram"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Telegram_Bots-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram Bots"/>
   <img src="https://img.shields.io/badge/Tinkoff_Invest_API-0C2C84?style=flat" alt="Tinkoff Invest API"/>
 
@@ -155,17 +163,22 @@
 - **🔗 [Arduino-Stepper-Motor-Controller-with-Joystick](https://github.com/rembov/Arduino-Stepper-Motor-Controller-with-Joystick)**<br>
   Контроллер шагового двигателя на **Arduino Uno/Nano** с управлением через аналоговый джойстик. При отклонении джойстика двигатель поворачивается на 180° в соответствующую сторону. Поддерживает микрошаги, плавное движение и защиту от повторных срабатываний.
 
+- **🔗 [stm32f446re_st7796s_tft](https://github.com/rembov/stm32f446re_st7796s_tft)**<br>
+  Подключение цветного **TFT-дисплея ST7796S** (3.5″, 320×480) к **STM32 Nucleo-F446RE** по SPI: распиновка, установка библиотек Adafruit GFX и тестовая графика в Arduino IDE.
 
 </details>
 
 <details>
 <summary><strong>🐍 Python & Data</strong></summary>
 
-- **🔗 [django-portfolio](https://github.com/rembov/django-portfolio)**  
-  Коллекция веб-проектов на **Django**: сайт для изучения английского, каталог, блог, лендинги и таймер событий.
-  
 - **🔗 [ai-lesson](https://github.com/rembov/ai-lesson)**  
   Учебные примеры по **машинному обучению** и **нейросетям**: классификация, регрессия, обучение моделей.
+
+- **🔗 [my-shop-bot](https://github.com/rembov/my-shop-bot)**  
+  **Telegram-магазин** на **Aiogram 3**: витрина товаров, оплата через **ЮKassa** и хранение данных в **MySQL**.
+
+- **🔗 [pymed](https://github.com/rembov/pymed)**  
+  Настольный **анализатор частот** на **PyQt5**: приём данных с **ESP** по HTTP и построение графика в реальном времени.
 
 - **🔗 [docpc](https://github.com/rembov/docpc)**  
   Пакетная обработка документов: парсинг, конвертация в PDF/Word, извлечение текста.
@@ -175,6 +188,17 @@
 
 - **🔗 [python-clicker](https://github.com/rembov/python-clicker)**  
   Автоматизация кликов мыши и клавиатуры через Python‑скрипт.
+
+</details>
+
+<details>
+<summary><strong>🌐 Веб (Django & HTML/CSS)</strong></summary>
+
+- **🔗 [django-portfolio](https://github.com/rembov/django-portfolio)**  
+  Коллекция веб-проектов на **Django**: сайт для изучения английского, каталог, блог, лендинги и таймер событий.
+  
+- **🔗 [my-first-site-html-css](https://github.com/rembov/my-first-site-html-css)**  
+  Мой **первый сайт** на чистом **HTML/CSS**.
 
 </details>
 
@@ -204,8 +228,17 @@
 - **🔗 [java-oop-with-time](https://github.com/rembov/java-oop-with-time)**  
   Демонстрация **ООП** в Java: управление временем создания и модификации объектов.
 
+- **🔗 [java-quicksort](https://github.com/rembov/java-quicksort)**  
+  Алгоритм **быстрой сортировки** (quicksort) с замерами производительности.
+
 - **🔗 [java-shell-sort](https://github.com/rembov/java-shell-sort)**  
   Алгоритм **сортировки Шелла** с замерами производительности.
+
+- **🔗 [java-shaker-sort](https://github.com/rembov/java-shaker-sort)**  
+  **Шейкерная сортировка** (двунаправленный «пузырёк») с замерами производительности.
+
+- **🔗 [java-bubble-sort](https://github.com/rembov/java-bubble-sort)**  
+  Сортировка **пузырьком** с консольной визуализацией.
 
 - **🔗 [java-selection-sort](https://github.com/rembov/java-selection-sort)**  
   Сортировка выбором с консольной визуализацией.
@@ -213,13 +246,24 @@
 </details>
 
 <details>
-<summary><strong>🖥️ C++ & Coursework</strong></summary>
+<summary><strong>📱 Kotlin & Mobile</strong></summary>
+
+- **🔗 [mobilkilabs](https://github.com/rembov/mobilkilabs)**  
+  Лабораторные работы по **мобильной разработке** на **Kotlin** (Android, Gradle Kotlin DSL).
+
+</details>
+
+<details>
+<summary><strong>🖥️ C/C++ & Coursework</strong></summary>
 
 - **🔗 [calculator-kursach](https://github.com/rembov/calculator-kursach)**  
   Консольный **калькулятор** для курсового проекта.
 
 - **🔗 [kursach-logic](https://github.com/rembov/kursach-logic)**  
   Логические схемы и симуляции на C++ для цифровой логики.
+
+- **🔗 [Dynamic-Data-Structures](https://github.com/rembov/Dynamic-Data-Structures)**  
+  Реализация **динамических структур данных** на **C**.
 
 - **🔗 [algollabs](https://github.com/rembov/algollabs)**  
   Лабораторные работы по алгоритмам: графы, деревья, сортировки и поиск.
