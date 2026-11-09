@@ -151,7 +151,7 @@
   Управление **реле** через энкодер и **OLED‑меню**: навигация по пунктам, сохранение настроек.
 
 - **🔗 [arduino-test-app](https://github.com/rembov/arduino-test-app)**  
-  Набор **утилитных скетчей** для проверки моторов, светодиодов, датчиков и интерфейсов.
+  **Python‑GUI** для тестирования компонентов Arduino через **Serial**: проверка моторов, светодиодов и датчиков с генерацией **PDF‑отчётов**.
 
 - **🔗 [advanced-line-follower-dragster](https://github.com/rembov/advanced-line-follower-dragster)**  
   **Скоростной линейный робот-драгстер** с тонкой PID‑настройкой, автокалибровкой.
@@ -166,9 +166,9 @@
   Управление шаговым двигателем **28BYJ-48** через драйвер **ULN2003**, с настройкой **скорости** и **направления** вращения через **энкодер**, выводом данных на **OLED-дисплей** SSD1306.
 
 - **🔗 [ESP8266-Water-Turbidity-Sensor](https://github.com/rembov/ESP8266-Water-Turbidity-Sensor)**  
-  Измерение мутности воды и публикация данных через MQTT.
+  Измерение **мутности воды** на ESP8266 с выводом статуса на **LCD 16×2 (I²C)** и публикацией данных в **MQTT**.
 
-- **🔗 [Tuya Pulse Counter](https://github.com/rembov/tuya-pulse-counter)**<br>
+- **🔗 [tuya-pulse-counter](https://github.com/rembov/tuya-pulse-counter)**<br>
   Передача данных **счётчиков** на базе ESP8266 с поддержкой платформы **Tuya**.
 
 - **🔗 [EtherAlert](https://github.com/rembov/EtherAlert)**<br>
